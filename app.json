@@ -12,7 +12,6 @@
       "supportsTablet": true
     },
     "android": {
-      "package": "de.satsuya.purrtainer",
       "adaptiveIcon": {
         "backgroundColor": "#E6F4FE",
         "foregroundImage": "./assets/images/android-icon-foreground.png",
